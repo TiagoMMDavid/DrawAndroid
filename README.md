@@ -3,7 +3,7 @@
 ## Overview
 DrawAndroid is a simple drawing app built for Android. 
 
-The app provides a canvas for the user to draw in. It is possible to draw shapes such as pixels, lines, circles and squares. Aside from a delete feature, DrawAndroid also allows to save an instance of the current drawing in order to load it later. Full support to portrait and landscape mode is also provided.
+The app provides a canvas for the user to draw in. It is possible to draw shapes such as pixels, lines, circles and squares. Aside from a reset feature, DrawAndroid also allows to save an instance of the current drawing in order to load it later.
 
 ## Preview
 <img src="resources/app-preview.png" width="850">
