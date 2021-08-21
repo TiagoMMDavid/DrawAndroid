@@ -1,4 +1,4 @@
-# DrawAndroid
+# DrawAndroid (POO Project)
 
 ## Overview
 DrawAndroid is a simple drawing app built for Android. 
